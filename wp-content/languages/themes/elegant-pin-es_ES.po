@@ -1,0 +1,146 @@
+# Translation of Themes - Elegant Pin in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Elegant Pin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-05 10:49:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Elegant Pin\n"
+
+#. Description of the theme
+msgid "Elegant Pin is a child theme of Elegant Pink free WordPress theme. This theme features a vibrant masonry layout which helps you display your content in a stylish way on every screen sizes and devices. You can create a fully responsive & mobile-friendly website excellent blog with this theme without writing a single line of code. This theme features a stunning and visually appealing layout on the front-end and easy to use content management system on the back-end. Also, the theme is optimized for speed to give the least load time to your website and provide an excellent user experience to your visitors. Furthermore, it is ultra-SEO optimized along with Schema.org markup ready to help your website rank higher in search engine results. Elegant Pin comes with extensive and easy to use documentation guide to help you create a professional blog from scratch. This theme can be the best choice to share your expert ideas on topics like fashion, beauty, makeup, fitness, lifestyle, recipes, travel, coaching, or parenting by creating a blog. The theme is translation ready, supports RTL and Cross Browser Compatible. Also, Elegant Pin is backed by world-class, one-on-one support, and a super active team of developers and designers ready to help! Check the demo at https://rarathemes.com/previews/?theme=elegant-pin/, documentation at https://docs.rarathemes.com/docs/elegant-pin/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Elegant Pin es un tema hijo del tema gratuito Elegant Pink para WordPress. Este tema cuenta con un vibrante diseño de muro que te ayuda a mostrar tu contenido de forma elegante en todos los tamaños de pantalla y dispositivos. Con este tema puedes crear un excelente blog sin escribir ni una sola línea de código. Este tema presenta un diseño impresionante y visualmente atractivo en la portada y un sistema de gestión de contenidos fácil de usar en la administración. Además, el tema está optimizado para la velocidad para dar el menor tiempo de carga a tu web y proporcionar una excelente experiencia de usuario a tus visitantes. Además, está muy optimizado y, junto con el marcado de Schema.org, está listo para ayudar a que tu web ocupe un lugar más alto en los resultados de los motores de búsqueda. Elegant Pin viene con una extensa y sencilla guía de documentación para ayudarte a crear un blog profesional desde cero. Este tema puede ser la mejor opción para compartir tus ideas de experto en temas como moda, belleza, maquillaje, fitness, estilo de vida, recetas, viajes, entrenamiento o paternidad mediante la creación de un blog. El tema está listo para traducción, es compatible con RTL y compatible con todos los navegadores. Además, Elegant Pin está respaldado por un soporte personalizado de primera clase y un equipo muy activo de desarrolladores y diseñadores ¡listos para ayudar! Revisa la demostración en https://rarathemes.com/previews/?theme=elegant-pin/, la documentación en https://docs.rarathemes.com/docs/elegant-pin/ y obtén soporte en https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Elegant Pin"
+msgstr "Elegant Pin"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:51
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by EB Garamond, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:45
+msgctxt "EB Garamond font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:272
+msgid "Enter Blossom Email Newsletter Shortcode"
+msgstr "Introduce el shortcode de BlossomThemes Email Newsletter"
+
+#: functions.php:271
+msgid "Blossom Email Newsletter"
+msgstr "BlossomThemes Email Newsletter"
+
+#: functions.php:253
+msgid "Enable Blossom Email Newsletter"
+msgstr "Activar BlossomThemes Email Newsletter"
+
+#: functions.php:235
+msgid "Newsletter Settings"
+msgstr "Ajustes del boletín"
+
+#: functions.php:226
+msgid "You must configure the BlossomThemes Feed for Instagram to display your Instagram posts on Homepage"
+msgstr "Tienes que configurar el plugin BlossomThemes Social Feed para que Instagram muestre tus publicaciones de Instagram en la página de inicio"
+
+#: functions.php:225
+msgid "Enable Instagram Section"
+msgstr "Activar la sección de Instagram"
+
+#: functions.php:207
+msgid "Instagram Settings"
+msgstr "Ajustes de Instagram"
+
+#: functions.php:199
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:131
+msgid "About Elegant Pin"
+msgstr "Sobre Elegant Pin"
+
+#: functions.php:127
+msgid "More WordPress Themes"
+msgstr "Más temas para WordPress"
+
+#: functions.php:126
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: functions.php:125
+msgid "Support ticket"
+msgstr "Tique de soporte"
+
+#: functions.php:124
+msgid "Theme info"
+msgstr "Información del tema"
+
+#: functions.php:123
+msgid "View documentation"
+msgstr "Ver la documentación"
+
+#: functions.php:122 functions.php:123 functions.php:124 functions.php:125
+#: functions.php:126 functions.php:127
+msgid "here"
+msgstr "aquí"
+
+#: functions.php:122
+msgid "View demo"
+msgstr "Ver la demostración"
+
+#: functions.php:121
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: functions.php:111
+msgid "Information Links"
+msgstr "Enlaces de información "
+
+#: functions.php:97
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: functions.php:97
+msgid "Powered by: %s"
+msgstr "Funciona con: %s"
+
+#: functions.php:94
+msgid "Developed By "
+msgstr "Desarrollado por "
+
+#: functions.php:92
+msgid "Elegant Pin "
+msgstr "Elegant Pin "
+
+#: functions.php:87
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:87
+msgid "Copyright &copy; "
+msgstr "Copyright &copy;"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:95
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/elegant-pin/"
+msgstr "https://rarathemes.com/wordpress-themes/elegant-pin/"
